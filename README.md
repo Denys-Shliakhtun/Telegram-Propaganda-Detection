@@ -36,4 +36,4 @@ Beyond single-post classification, the system performs aggregated analysis at th
 ## Academic Context
 This project was developed as a Coursework for the "Processing of Large Datasets" discipline at the **Igor Sikorsky Kyiv Polytechnic Institute (KPI)**.
 
-**Author:** [Denys Shlyakhtun](https://www.linkedin.com/in/denys-shliakhtun/) 
+**Author:** [Denys Shliakhtun](https://www.linkedin.com/in/denys-shliakhtun/) 
